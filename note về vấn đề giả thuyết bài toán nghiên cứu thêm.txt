@@ -1,0 +1,26 @@
+dữ liệu mới xem đánh giá thế nào
+
+dự đoán cho dữ liệu mới
+khi nào thì nó rẽ nhánh xem lại thư viện
+
+Khoảng dữ liệu : thầy cố vớt nót lên , khoảng chênh lệnh không đủ lớn để khẳng định xem trình độ của anh nó như thế nào
+Đưa ra một cái giả thuyết có ích để chứng minh nó đúng 
+
+recommend đi học mảng nào dựa trên điểm tốt nghiệp
+
+
+giả thiết về dữ liệu thì về mặt toán học nó biểu diễn như thế nào 
+
+
+giả thiết sinh viên năm 3 điểm như này thì dễ tốt nghiệp bị khá -> cần xem xét lại việc học hệ thống gợi ý, nhưng mà nó nhìn điểm cũng biết
+
+xem môn nào được A nhưng mà tỉ lệ xếp loại A thấp
+thì có thể đưa ra giả thuyết là môn đó dễ đậu :))
+
+
+
+
+
+3 A Môn triết, vật lý -> XLTN : B -> dễ qua môn 
+
+Môn này A nhưng 
